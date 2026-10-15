@@ -1,0 +1,12 @@
+{
+  "name": "tw-canon-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node repro.mjs",
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "tailwindcss": "4.3.3"
+  }
+}
